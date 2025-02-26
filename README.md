@@ -36,6 +36,12 @@ Welcome to **CodeGenius**, the smart coding assistant designed to make developme
 - Personalized experience for each user.
 
 ---
+#### 📝 Mind Map / Flow of Execution
+
+![Diagramatic Representation](https://i.ibb.co/WWsNqxkR/Screenshot-2025-02-26-101710.png)
+
+
+---
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (MERN Stack without React.js)
