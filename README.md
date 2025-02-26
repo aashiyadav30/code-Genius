@@ -74,10 +74,6 @@ npm start
 
 ---
 
-## 🎮 Demo & Screenshots
-
-### 🌍 Live Demo
-[Try CodeGenius Here](https://your-demo-link.com)
 
 ### 📸 Screenshots & Explanation
 
