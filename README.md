@@ -85,13 +85,10 @@ npm start
 ![IDE Dashboard](https://i.ibb.co/6JYWptwQ/index.jpg)
 *Description of the interface and features of the dashboard.*
 
-#### 🌐 Multi-Language Support
-![Multi-Language Support](https://your-image-link.com)
-*Easily switch between programming languages.*
+#### 🌐 AI Code Assistant
+![AI Code Assistant](https://i.ibb.co/PGkxrMX0/Screenshot-2025-02-26-095230.png)
 
-#### 🛠 Built-in Compiler & Output Panel
-![Compiler & Output](https://your-image-link.com)
-*Execute your code instantly and view results in real-time.*
+*Checks your code instantly and view results in real-time.*
 
 ---
 
