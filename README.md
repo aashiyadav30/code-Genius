@@ -82,7 +82,7 @@ npm start
 ### 📸 Screenshots & Explanation
 
 #### 📝 Integrated Development Environment Dashboard
-![IDE Dashboard](https://ibb.co/CsBHX98L)
+![IDE Dashboard](https://i.ibb.co/6JYWptwQ/index.jpg)
 *Description of the interface and features of the dashboard.*
 
 #### 🌐 Multi-Language Support
